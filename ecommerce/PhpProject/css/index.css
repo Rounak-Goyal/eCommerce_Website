@@ -1,0 +1,41 @@
+
+
+
+#banner-image {
+    min-height:800px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url('../img/main.jpg') no-repeat center;
+    background-size: cover;
+    
+}
+
+
+
+
+#banner_content {
+    position: relative;
+    padding-top: 6%;
+    top: 150px;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 560px;
+    margin:auto;
+}
+
+#footer {
+    position:fixed;
+    height: 60px;
+    bottom:0; 
+    padding: 5px 0;
+    background-color: #000;
+    color:#fff;
+    text-align: center;
+    width: 100%;
+
+}
