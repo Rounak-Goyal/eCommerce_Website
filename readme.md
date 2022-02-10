@@ -1,5 +1,6 @@
 # Lifestyle Store
-Ecommerce Site <hr>
+Ecommerce Site <br>
+html | bootstrap | MySql | PHP <hr>
 <img src="ecommerce/PhpProject/images/ecom-1.jpg"><hr>
 <img src="ecommerce/PhpProject/images/ecom-3.jpg"><hr>
 <img src="ecommerce/PhpProject/images/ecom-4.jpg"><hr>
